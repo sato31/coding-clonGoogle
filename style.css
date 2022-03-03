@@ -1,0 +1,70 @@
+.navibar{
+    text-align: right;
+}
+
+body{
+    background-color: white; 
+    text-align: center;  
+    font-family:Arial, Helvetica, sans-serif     
+}
+li{
+    list-style: none;
+    display: inline-block;
+}
+.img-bar{
+    height: 30px;
+    width: 30px;
+}
+.footer{
+    text-align: left;
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: #f0f0f0;
+    position: fixed;
+    left:0px;
+    bottom:0px;
+    width: 100%;
+}
+
+.footer .mex{
+    margin-left: 40px;
+}
+.fotter.barmex{
+    border-color: black;
+    border-bottom-width: 10px;
+}
+
+.footer .about{
+    text-align: left;
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-family:Arial, Helvetica, sans-serif;
+    margin-right: 10px;
+}
+a:hover{
+    text-decoration: underline;
+}
+.contenedor-padre{
+    height: 250px;
+}
+.floater {
+    float: left;
+    height: 50%;
+    width: 100%;
+    margin-bottom: -50px;
+ }
+ .contenedor-cent-vertical{
+    clear: both;
+    height: 100px;
+ }
+
+ .busqueda, .search, .en-ingles{
+     padding: 20px;
+ }
+
+ .about .linea{
+     border-top-color: rgb(194, 193, 193);
+     border-width: 1px;
+     border-top-style: solid;
+ }
