@@ -1,5 +1,8 @@
 # CLON GOOGLE (sin usar Flexbox ni Grid)
 
+[Ver este proyecto](https://sato31.github.io/coding-clonGoogle/)
+
+
 El objetivo de este proyecto es realizar un clon de Google sin utilizar ningún layout como Grid o Flexbox tratando de asemejarse lo máximo posible a la página principal de Google.
 
 ![1660604282425](image/README/1660604282425.png)
